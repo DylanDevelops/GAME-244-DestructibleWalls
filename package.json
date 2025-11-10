@@ -1,0 +1,29 @@
+{
+  "name": "com.ravel.destructiblewalls",
+  "version": "1.0.0",
+  "displayName": "Destructible Walls",
+  "description": "A Unity package for creating destructible walls that can be broken by the player.",
+  "unity": "6000.2",
+  "unityRelease": "7f2",
+  "documentationUrl": "https://github.com/DylanDevelops/GAME-244-DestructibleWalls#readme",
+  "changelogUrl": "https://github.com/DylanDevelops/GAME-244-DestructibleWalls/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/DylanDevelops/GAME-244-DestructibleWalls/blob/main/LICENSE.md",
+  "author": {
+    "name": "Dylan Ravel",
+    "email": "dylanm.ravel@gmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Contains a demo scene, prefabs, and materials to showcase destructible walls.",
+      "path": "Samples~/Demo"
+    }
+  ],
+  "keywords": [
+    "unity",
+    "walls",
+    "destructible",
+    "physics",
+    "ravel"
+  ]
+}
